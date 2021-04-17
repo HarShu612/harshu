@@ -1,1 +1,2 @@
-enter some information :
+enter some information 
+welcome to git:
